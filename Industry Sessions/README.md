@@ -3,7 +3,7 @@
 ➤ If you find this **REPOSITORY** helpful, then do give it a `🌟` by pressing the topmost-right button 🤗
 
 ➤ To save a copy of this **REPOSITORY** to your own GitHub, then click on <a href="https://github.com/Neklaustares-tPtwP/Microsoft-Future_Ready_Talent-Internship/edit/master/README.md"><kbd><b>Fork</b></kbd></a> on the top right of your sceen 🤗
-
+<hr>
 Curated sessions by industry experts from across verticals and leveraged the insights and prepared us to join the future workforce.
 
 ### ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) [Digitization and Automation in BFSI](https://github.com/Neklaustares-tPtwP/Microsoft-Future_Ready_Talent-Internship/tree/master/Industry%20Sessions/Digitization%20and%20Automation%20in%20BFSI)
