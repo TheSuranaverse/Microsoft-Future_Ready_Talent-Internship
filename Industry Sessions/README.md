@@ -1,5 +1,9 @@
 # INDUSTRY SESSIONS
 
+➤ If you find this **REPOSITORY** helpful, then do give it a `🌟` by pressing the topmost-right button 🤗
+
+➤ To save a copy of this **REPOSITORY** to your own GitHub, then click on <a href="https://github.com/Neklaustares-tPtwP/Microsoft-Future_Ready_Talent-Internship/edit/master/README.md"><kbd><b>Fork</b></kbd></a> on the top right of your sceen 🤗
+
 Curated sessions by industry experts from across verticals and leveraged the insights and prepared us to join the future workforce.
 
 ### ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) [Digitization and Automation in BFSI](https://github.com/Neklaustares-tPtwP/Microsoft-Future_Ready_Talent-Internship/tree/master/Industry%20Sessions/Digitization%20and%20Automation%20in%20BFSI)
@@ -21,3 +25,11 @@ Here we got insightful information on the use of cloud technology in the **healt
 ### ![#df07e3](https://via.placeholder.com/15/df07e3/000000?text=+) [An Overview of Microsoft Azure](https://github.com/Neklaustares-tPtwP/Microsoft-Future_Ready_Talent-Internship/tree/master/Industry%20Sessions/An%20Overview%20of%20Microsoft%20Azure)
 
 In the highly competitive environment, today organizations are looking to bring business efficiencies. More and more businesses are considering cloud computing to deliver services more efficiently. Here we looked few of the most popular services in the `Microsoft Azure` cloud computing platform provides a wealth of cloud-based services like compute, remote storage, database hosting, centralized account management, and new capabilities like artificial intelligence (AI) and IoT.
+
+<hr>
+
+➤ If you find this **REPOSITORY** helpful, then do give it a `🌟` by pressing the topmost-right button 🤗
+
+➤ To save a copy of this **REPOSITORY** to your own GitHub, then click on <a href="https://github.com/Neklaustares-tPtwP/Microsoft-Future_Ready_Talent-Internship/edit/master/README.md"><kbd><b>Fork</b></kbd></a> on the top right of your sceen 🤗
+
+## THANK YOU!
