@@ -41,7 +41,7 @@ Write your doubt/query along with the solution. Thanks for contributing!😄
 
 Write any tips for the learning modules or internship below. Thanks for contributing!😄
 
-1. You can use only `4 Sandbox` in a single day, so use them carefully when you perform exercises.
+1. You can use only `Sandbox 4 times` in a single day, so use them carefully when you perform exercises.
 2. 
 
 # THANK YOU! ❤️
