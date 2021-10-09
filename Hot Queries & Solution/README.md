@@ -2,7 +2,6 @@
 
 Write your doubt/query along with the solution. Thanks for contributing!😄
 
-
 1. How to access "STUDENT DEVELOPER PACK"
 - Go to your `Future Ready Learning` portal & there on the right hand side you will see a menu where you have to click on `Claim Student Developer Pack` and a request will be submitted. Refer to the images uploaded below for details.
 - **NOTE: Don't forget to add `Microsoft Azure` as a skill on your LinkedIn profile.**
@@ -44,3 +43,8 @@ Write any tips for the learning modules or internship below. Thanks for contribu
 
 1. You can use only `4 Sandbox` in a single day, so use them carefully when you perform exercises.
 2. 
+
+# THANK YOU! ❤️
+➤ If you find this **REPOSITORY** helpful, then do give it a `🌟` by pressing the topmost-right button 🤗
+
+➤ To save a copy of this **REPOSITORY** to your own GitHub, then click on <a href="https://github.com/Neklaustares-tPtwP/Microsoft-Future_Ready_Talent-Internship/edit/master/README.md"><kbd><b>Fork</b></kbd></a> on the top right of your screen 🤗
