@@ -2,10 +2,19 @@
 
 Write your doubt/query along with the solution. Thanks for contributing!😄
 
-1. Cannot click on on any tab other than "ORIENTATION"?
+
+1. How to access "STUDENT DEVELOPER PACK"
+- Go to your `Future Ready Learning` portal & there on the right hand side you will see a menu where you have to click on `Claim Student Developer Pack` and a request will be submitted. Refer to the images uploaded below for details.
+- **NOTE: Don't forget to add `Microsoft Azure` as a skill on your LinkedIn profile.**
+
+<a href="https://github.com/Neklaustares-tPtwP/Microsoft-Future_Ready_Talent-Internship/blob/master/Orientation/img/STUDENT%20DEVELOPER%20PACK.PNG"><img src="https://github.com/Neklaustares-tPtwP/Microsoft-Future_Ready_Talent-Internship/blob/master/Orientation/img/STUDENT%20DEVELOPER%20PACK.PNG" alt="Student Developer Pack" width="220px"/></a>|<a href="https://github.com/Neklaustares-tPtwP/Microsoft-Future_Ready_Talent-Internship/blob/master/Orientation/img/claim%20student%20developer%20pack.PNG"><img src="https://github.com/Neklaustares-tPtwP/Microsoft-Future_Ready_Talent-Internship/blob/master/Orientation/img/claim%20student%20developer%20pack.PNG" alt="Claim" width="220px"/></a>|
+|:--:|:--:|
+|Student Developer Pack|Request Submitted|
+
+2. Cannot click on on any tab other than "ORIENTATION"?
 - Make sure you have submitted links for every platform they have asked for: `Microsoft Learn` (link to profile), `Future Skills Prime` (email used to create account), `GitHub` (link to profile), `LinkedIn` (link to profile), `AICTE` (email used to create account)
 
-2. Cannot click on on any tab other than "ORIENTATION", even after submitting all the details?
+3. Cannot click on on any tab other than "ORIENTATION", even after submitting all the details?
 - Try logging in through `Incognito Mode`. Try to Log out and Log back in and go to the Orientation section again. You should be able to see all the links that you submitted be saved on the text bar on which you submitted the link, if you are not able to see that means your links are not submitted successfully. Try submitting the links again!
 
 4. Completed the modules under self-learning but still showing "IN PROGRESS"?
