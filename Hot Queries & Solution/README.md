@@ -10,7 +10,7 @@ Write your doubt/query along with the solution. Thanks for contributing!😄
 2. Industry session videos not marked as completed issue?
 - Make sure you watch the complete video in one go, without buffering and internet issues. If possible do not watch in fullscreen, watch as it is given. Don't do anything at the end, till your website give prompt to click for `OK` button. Ty atleast 2-times.
 
-3. Hw to access "STUDENT DEVELOPER PACK"
+3. How to access "STUDENT DEVELOPER PACK"?
 - Go to your `Future Ready Learning` portal & there on the right hand side you will see a menu where you have to click on `Claim Student Developer Pack` and a request will be submitted. Refer to the images uploaded below for details.
 - **NOTE: Don't forget to add `Microsoft Azure` as a skill on your LinkedIn profile.**
 
@@ -20,30 +20,37 @@ Write your doubt/query along with the solution. Thanks for contributing!😄
 
 <hr>
 
-2. Cannot click on on any tab other than "ORIENTATION"?
+4. Cannot click on on any tab other than "ORIENTATION"?
 - Make sure you have submitted links for every platform they have asked for: `Microsoft Learn` (link to profile), `Future Skills Prime` (email used to create account), `GitHub` (link to profile), `LinkedIn` (link to profile), `AICTE` (email used to create account)
 
 <hr>
 
-3. Cannot click on on any tab other than "ORIENTATION", even after submitting all the details?
+5. Cannot click on on any tab other than "ORIENTATION", even after submitting all the details?
 - Try logging in through `Incognito Mode`. Try to Log out and Log back in and go to the Orientation section again. You should be able to see all the links that you submitted be saved on the text bar on which you submitted the link, if you are not able to see that means your links are not submitted successfully. Try submitting the links again!
 
 <hr>
 
-4. Completed the modules under self-learning but still showing "IN PROGRESS"?
+6. Completed the modules under self-learning but still showing "IN PROGRESS"?
 - It will update on a `weekly` basis, so don't panic 😊. Also make sure you have logged in both the accounts (MS Learn & Future Skill) while completing your modules so that your progress is tracked successfully.
 
 <hr>
 
-5. Can I complete the "SELF-LEARNING COURSES" in any order?
+7. Can I complete the "SELF-LEARNING COURSES" in any order?
 - No, please complete the courses in the order given as instructed in the `Orientation` Session.
 
 <hr>
 
-6.
-- 
+8. Do we need to give any exam pr pay for exam & get certification to complete this Internship?
+- No you don't have to pay a single penny (except for the Data charges xd) for any sort of exam or certification to complete this internship.
+- The `Submit your Certification` is for those students who have completed this course in past during any program curriculum & gave exam to get accredited. So they can submit their certificate here & the course/module will be marked complete & they don't have to again watch through all the videos to complete it.
 
 <hr>
+
+9. 
+-
+
+<hr>
+
 
 # TIPS & TRICKS
 
