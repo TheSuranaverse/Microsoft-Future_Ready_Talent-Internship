@@ -2,7 +2,15 @@
 
 Write your doubt/query along with the solution. Thanks for contributing!😄
 
-1. How to access "STUDENT DEVELOPER PACK"
+1. Having link issues for Orientation? 
+- If anyone is not getting link for FutureSkillsPrime or AICTE then they can use register email in the link sections for both of them.  
+- The register email what you used for login to futureskill or AICTE.   
+- If possible make sure all profile email should be same. Or you change email from setting of each website.
+
+2. Industry session videos not marked as completed issue?
+- Make sure you watch the complete video in one go, without buffering and internet issues. If possible do not watch in fullscreen, watch as it is given. Don't do anything at the end, till your website give prompt to click for `OK` button. Ty atleast 2-times.
+
+3. Hw to access "STUDENT DEVELOPER PACK"
 - Go to your `Future Ready Learning` portal & there on the right hand side you will see a menu where you have to click on `Claim Student Developer Pack` and a request will be submitted. Refer to the images uploaded below for details.
 - **NOTE: Don't forget to add `Microsoft Azure` as a skill on your LinkedIn profile.**
 
@@ -42,7 +50,8 @@ Write your doubt/query along with the solution. Thanks for contributing!😄
 Write any tips for the learning modules or internship below. Thanks for contributing!😄
 
 1. You can use only `Sandbox 4 times` in a single day, so use them carefully when you perform exercises.
-2. 
+2. Go to [neverinstall](https://neverinstall.com/) on your pc & create an account with Google. Launch chrome there & open **FRT** and watch all the videos. It will provide you very fast speed internet, fast enough to watch all 5 videos at once.
+3. 
 
 # THANK YOU! ❤️
 ➤ If you find this **REPOSITORY** helpful, then do give it a `🌟` by pressing the topmost-right button 🤗
