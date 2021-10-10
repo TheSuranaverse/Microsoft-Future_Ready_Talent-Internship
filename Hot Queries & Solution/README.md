@@ -40,13 +40,18 @@ Write your doubt/query along with the solution. Thanks for contributing!😄
 
 <hr>
 
-8. Do we need to give any exam pr pay for exam & get certification to complete this Internship?
+8. Do we need to give any exam or "PAY" for exam & get certification to complete this Internship?
 - No you don't have to pay a single penny (except for the Data charges xd) for any sort of exam or certification to complete this internship.
 - The `Submit your Certification` is for those students who have completed this course in past during any program curriculum & gave exam to get accredited. So they can submit their certificate here & the course/module will be marked complete & they don't have to again watch through all the videos to complete it.
 
 <hr>
 
-9. 
+9. How to complete the website exercise?/Not able to find the link as shown in the tutorial?
+- Completing the website exercise is not mandatory. Once u have activated your `Student Developer Pack` then only u can then put the website online & get the url. And concern to the assignment , officialy it is complete. So for now until you get your Student Developer Pack you can start with the rest.
+
+<hr>
+
+10. 
 -
 
 <hr>
