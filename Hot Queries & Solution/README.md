@@ -56,6 +56,8 @@ OR
 - First open your tab on `incognito` mode & then go to the industry session section. Now click on all the videos play button & let it play in one go.
 - **NOTE:** Don't pause the video or go in full-screen mode or switch application or tabs while the video is playing. Doing any of these activity will hinder the progress.
 
+<hr>
+
 8. Can I complete the "SELF-LEARNING COURSES" in any order?
 - No, please complete the courses in the order given as instructed in the `Orientation` Session.
 
