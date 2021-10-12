@@ -51,8 +51,34 @@ Write your doubt/query along with the solution. Thanks for contributing!😄
 
 <hr>
 
-10. 
--
+10. How to create Wordpress on App Service? (tutorial is not helping)
+- Follow the steps below:
+  - Home -> Create a Resource -> Marketplace -> Wordpress 
+  <p align="center">
+  <img src="https://github.com/Neklaustares-tPtwP/Microsoft-Future_Ready_Talent-Internship/blob/master/Hot%20Queries%20%26%20Solution/images/wordpress.png" width="360">
+  </p><br>
+
+  - Click on `Usage Information + Support` tab. Scroll down and find `Web` under **Categories**. Click on it & it will again take you to **Marketplace**.
+  <p align="center">
+  <img src="https://github.com/Neklaustares-tPtwP/Microsoft-Future_Ready_Talent-Internship/blob/master/Hot%20Queries%20%26%20Solution/images/1.png" width="200"> <img src="https://github.com/Neklaustares-tPtwP/Microsoft-Future_Ready_Talent-Internship/blob/master/Hot%20Queries%20%26%20Solution/images/2.png" width="200">
+  </p><br>
+  
+  - Click on `App Service Plan` & then click on `Create`.
+  <p align="center">
+  <img src="https://github.com/Neklaustares-tPtwP/Microsoft-Future_Ready_Talent-Internship/blob/master/Hot%20Queries%20%26%20Solution/images/3.png" width="200"> <img src="https://github.com/Neklaustares-tPtwP/Microsoft-Future_Ready_Talent-Internship/blob/master/Hot%20Queries%20%26%20Solution/images/4.png" width="200">
+  </p><br>
+  
+  - Fill in all the details & then under `Sku and size`, click on `Change size`. Choose `Dev/Test`and in it select `F1` pricing tier.
+  <p align="center">
+  <img src="https://github.com/Neklaustares-tPtwP/Microsoft-Future_Ready_Talent-Internship/blob/master/Hot%20Queries%20%26%20Solution/images/5.png" width="200"> <img src="https://github.com/Neklaustares-tPtwP/Microsoft-Future_Ready_Talent-Internship/blob/master/Hot%20Queries%20%26%20Solution/images/f1.png" width="420" height="350">
+  </p><br>
+  - Click `Review + Create`. Now you have successfully created App Service.
+  - **NOTE:** To get the URL i.e. to create an App after creating Service, you need to have `Student Developer Pack`.
+    
+<hr>
+
+11. 
+- 
 
 <hr>
 
