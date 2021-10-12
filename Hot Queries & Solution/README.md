@@ -18,10 +18,15 @@ Write your doubt/query along with the solution. Thanks for contributing!😄
 |:--:|:--:|
 |Student Developer Pack|Request Submitted|
 
+
+OR
+- Go to the link: https://education.github.com/discount_requests/student_application and scroll down below & fill the details & send a request to get the developer pack.
+
 <hr>
 
 4. Cannot click on on any tab other than "ORIENTATION"?
-- Make sure you have submitted links for every platform they have asked for: `Microsoft Learn` (link to profile), `Future Skills Prime` (email used to create account), `GitHub` (link to profile), `LinkedIn` (link to profile), `AICTE` (email used to create account)
+- Make sure you have provided `Institution Name`, `Specialization (Education stream)` and `College id Card/Provisional Marksheet` correctly. Also do everything on `incognito mode` only!
+- Make sure you have submitted links for every platform they have asked for: `Microsoft Learn` (link to profile), `Future Skills Prime` (email used to create account), `GitHub` (link to profile), `LinkedIn` (link to profile), `AICTE` (email used to create account). Use incognito mode only!
 
 <hr>
 
@@ -78,7 +83,22 @@ Write your doubt/query along with the solution. Thanks for contributing!😄
     
 <hr>
 
-11. 
+11. How do I know I have received "STUDENT DEVELOPER PACK"?
+- There are two ways you can check to know for guaranteed:
+  - Go to this link: https://education.github.com/discount_requests/student_application and if you see an image like the one below stating that `Your request has been approved`, that means you have now access to the developer pack.
+  <p align="center">
+  <img src="https://github.com/Neklaustares-tPtwP/Microsoft-Future_Ready_Talent-Internship/blob/master/Hot%20Queries%20%26%20Solution/images/approved.PNG" width="360">
+  </p><br>
+  
+  OR
+  - Go to the link: https://github.com/ and then click on `Your profile` and if you see `PRO` written there, then you have now access to the developer pack.
+  <p alig="center">
+  <img src="https://github.com/Neklaustares-tPtwP/Microsoft-Future_Ready_Talent-Internship/blob/master/Hot%20Queries%20%26%20Solution/images/profile.PNG" width="600" height="160"> <img src="https://github.com/Neklaustares-tPtwP/Microsoft-Future_Ready_Talent-Internship/blob/master/Hot%20Queries%20%26%20Solution/images/pro.PNG" height="200">
+  </p><br>
+
+<hr>
+
+12. 
 - 
 
 <hr>
