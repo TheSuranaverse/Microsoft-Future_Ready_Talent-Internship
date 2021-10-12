@@ -2,6 +2,18 @@
 
 Write your doubt/query along with the solution. Thanks for contributing!😄
 
+<hr>
+
+### ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) Want to earn real passive income - effortlessly?🤩  
+**Honeygain** is the first-ever app that allows users to make money online by sharing their internet connection. Users now can reach their networks full potential by getting cash back to their wallets! 🔥 🔥 
+
+Also by using the referral link given below you are eligible to claim **$5**.  
+**$5 REFERRAL LINK:** https://r.honeygain.me/YASHS46D0F
+
+For more information, watch the video below 👍   
+**VIDEO LINK:** https://youtu.be/6RDNT-f8Pv4
+<hr>
+
 1. Having link issues for Orientation? 
 - If anyone is not getting link for FutureSkillsPrime or AICTE then they can use register email in the link sections for both of them.  
 - The register email what you used for login to futureskill or AICTE.   
@@ -98,8 +110,18 @@ OR
 
 <hr>
 
-12. 
-- 
+12. "You're not eligible for an Azure free account" shows when i try to sign up for Azure. What should I do ?
+- To get Azure free account make sure you have completed atleast **1 Module** under `Self-learning`. Also get **Developer Pack** fast if you haven't yet received.
+
+<hr>
+
+13. Should the project be alligned to the "Industry Videos" or it can be of any domain which we like and know ?
+- Your project must belong under these 4 categories only: `HealthCare`, `FinTech`, `EdTech`, `Earth` and `Azure` only.
+
+<hr>
+
+14.
+-
 
 <hr>
 
@@ -111,6 +133,17 @@ Write any tips for the learning modules or internship below. Thanks for contribu
 1. You can use only `Sandbox 4 times` in a single day, so use them carefully when you perform exercises.
 2. Go to [neverinstall](https://neverinstall.com/) on your pc & create an account with Google. Launch chrome there & open **FRT** and watch all the videos. It will provide you very fast speed internet, fast enough to watch all 5 videos at once.
 3. 
+
+
+### ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) Want to earn real passive income - effortlessly?🤩  
+**Honeygain** is the first-ever app that allows users to make money online by sharing their internet connection. Users now can reach their networks full potential by getting cash back to their wallets! 🔥 🔥 
+
+Also by using the referral link given below you are eligible to claim **$5**.  
+**$5 REFERRAL LINK:** https://r.honeygain.me/YASHS46D0F
+
+For more information, watch the video below 👍   
+**VIDEO LINK:** https://youtu.be/6RDNT-f8Pv4
+
 
 # THANK YOU! ❤️
 ➤ If you find this **REPOSITORY** helpful, then do give it a `🌟` by pressing the topmost-right button 🤗
