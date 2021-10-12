@@ -52,23 +52,27 @@ OR
 
 <hr>
 
-7. Can I complete the "SELF-LEARNING COURSES" in any order?
+7. Not able to complete "INDUSTRY SESSIONS", the status is showing **INCOMPLETE** even after watching completely, what to do?
+- First open your tab on `incognito` mode & then go to the industry session section. Now click on all the videos play button & let it play in one go.
+- **NOTE:** Don't pause the video or go in full-screen mode or switch application or tabs while the video is playing. Doing any of these activity will hinder the progress.
+
+8. Can I complete the "SELF-LEARNING COURSES" in any order?
 - No, please complete the courses in the order given as instructed in the `Orientation` Session.
 
 <hr>
 
-8. Do we need to give any exam or "PAY" for exam & get certification to complete this Internship?
+9. Do we need to give any exam or "PAY" for exam & get certification to complete this Internship?
 - No you don't have to pay a single penny (except for the Data charges xd) for any sort of exam or certification to complete this internship.
 - The `Submit your Certification` is for those students who have completed this course in past during any program curriculum & gave exam to get accredited. So they can submit their certificate here & the course/module will be marked complete & they don't have to again watch through all the videos to complete it.
 
 <hr>
 
-9. How to complete the website exercise?/Not able to find the link as shown in the tutorial?
+10. How to complete the website exercise?/Not able to find the link as shown in the tutorial?
 - Completing the website exercise is not mandatory. Once u have activated your `Student Developer Pack` then only u can then put the website online & get the url. And concern to the assignment , officialy it is complete. So for now until you get your Student Developer Pack you can start with the rest.
 
 <hr>
 
-10. How to create Wordpress on App Service? (tutorial is not helping)
+11. How to create Wordpress on App Service? (tutorial is not helping)
 - Follow the steps below:
   - Home -> Create a Resource -> Marketplace -> Wordpress 
   <p align="center">
@@ -95,7 +99,7 @@ OR
     
 <hr>
 
-11. How do I know I have received "STUDENT DEVELOPER PACK"?
+12. How do I know I have received "STUDENT DEVELOPER PACK"?
 - There are two ways you can check to know for guaranteed:
   - Go to this link: https://education.github.com/discount_requests/student_application and if you see an image like the one below stating that `Your request has been approved`, that means you have now access to the developer pack.
   <p align="center">
@@ -110,17 +114,17 @@ OR
 
 <hr>
 
-12. "You're not eligible for an Azure free account" shows when i try to sign up for Azure. What should I do ?
+13. "You're not eligible for an Azure free account" shows when i try to sign up for Azure. What should I do ?
 - To get Azure free account make sure you have completed atleast **1 Module** under `Self-learning`. Also get **Developer Pack** fast if you haven't yet received.
 
 <hr>
 
-13. Should the project be alligned to the "Industry Videos" or it can be of any domain which we like and know ?
+14. Should the project be alligned to the "Industry Videos" or it can be of any domain which we like and know ?
 - Your project must belong under these 4 categories only: `HealthCare`, `FinTech`, `EdTech`, `Earth` and `Azure` only.
 
 <hr>
 
-14.
+15.
 -
 
 <hr>
