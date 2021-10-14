@@ -25,4 +25,71 @@ Azure is a continually expanding set of cloud services that help your organizati
 ### What does Azure offer?
 <details><summary>The following table lists several of the benefits that Azure provides:</summary>
   <ul>
-    
+        <li><b>Be ready for the future:</b> Continuous innovation from Microsoft supports your development today and your product visions for tomorrow.</li>
+        <li><b>Build on your terms:</b> With a commitment to open source, and support for all languages and frameworks, you can build how you want and deploy where you want to.</li>
+        <li><b>Operate hybrid seamlessly:</b> Integrate and manage your environments with tools and services designed for a hybrid cloud solution.</li>
+        <li><b>Trust your cloud:</b> Get security from the ground up, backed by a team of experts, and proactive compliance trusted by enterprises, governments, and startups.</li>
+    </ul>
+</details>
+
+### What can I do with Azure?
+Azure provides more than 100 services that enable you to do everything from running your existing applications on virtual machines, to exploring new software paradigms, such as intelligent bots and mixed reality.
+
+### How does Azure work?
+It is a private & public cloud platform that help developers & IT administartors to build, deploy, and manage their applications. It uses a technology known as **Virtualization**. 
+- **VIRTUALIZATION:** It helps seperate the tight coupling between a computer's hardware and its operating system using an abstraction layer called a **Hypervisor**.
+- **HYPERVISOR:** It emulates all the functions of a real computer & its CPU in a virtual machine, optimizing the capacity of the obstructed hardware. It can run multiple Virtual Machines (VMs) at the same time & each VM can run any compatible OS such as Linux or Windows. MS takes this Vurtualization technology & repeats it on a massive scale in MS data centers throughout the world.
+- **DATA CENTERS:** Each data centers has many racks filled with server and each server includes a hypervisor to run multiple VMs.
+- **NETWORK SWITCH:** A network switch provides connectivity to all those servers. One server in each rack runs a special piece of software called a **Fabric Controller**.
+- **FABRIC CONTROLLER:** Each fabric controller is connected to another piece of software known as the **Orchestrator**.
+- **ORCHESTRATOR:** It is responsible for managing everything that happens in azure, including responding to user requests. Users make requests using the Orchestartor's web API. 
+- **WEB API:** It can be called by many tools, using the user interface of the Azure portal. So when a user makes a request to create a VM, the Orchestrator packages everything that's needed , picks the best server rack, and then sneds the package and request to the Fabric Controller. Once the Fabric Controller has created the VM, the user can connect to it.  
+It gives you the freedom to build, manage, and deploy applications on a massive global netowrk using your favourite tools and frameworks.
+
+
+### What is the Azure portal?
+The Azure portal is a web-based, unified console that provides an alternative to command-line tools. It is a one-stop, graphical management solution for creating, configuring, and controlling all your Azure services. With the Azure portal, you can manage your Azure subscription by using a graphical user interface.<details><summary>You can:</summary>
+  <ul>
+        <li>Build, manage, and monitor everything from simple web apps to complex cloud deployments.</li>
+        <li>Create custom dashboards for an organized view of resources.</li>
+        <li>Scale services by adding or removing resources from your subscription.</li>
+        <li>Monitor the health of applications, track costs & billing status, analyze the performance of your applications in real-time or create reports for in-depth analysis.</li>
+        <li>Configure accessibility options for an optimal experience.</li>
+    </ul>
+    <img src="https://github.com/Neklaustares-tPtwP/Microsoft-Future_Ready_Talent-Internship/blob/master/Azure%20Fundamentals%20(AZ-900)/Describe%20Core%20Azure%20Concepts/img/azure-portal-dd184579.png" width="360px">
+</details>
+
+### What is Azure Marketplace?
+![Azure Marketplace](https://azuremarketplace.microsoft.com/en-US/) helps connect users with Microsoft partners, independent software vendors, and startups that are offering their solutions and services, which are optimized to run on Azure.
+
+
+## Tour of Azure Services
+
+<details><summary>List of top 10 services:</summary>
+<ul>
+  <li>**COMPUTE: These cloud services let you `scale` your computing capability on demand while only paying for what you use. Add VMs as needed or scale your company's app services for web and mobile apps. </li>
+  <li>NETWORKING: These featurs help you connect your cloud & on-premise infrastructure in order to bring the best possible experience to your customers. `VPNs` & `Load-balancing` are two examples of this feature. </li>
+  <li>STORAGE: Disk, file, blob or archival storage, these services let you scale your data & app storage needs in a secure fashion.</li>
+  <li>MOBILE: Build & deploy cross-platform & native apps for any mobile device, use `Xamarin` to build cloud-powered apps, & take advantage of cognitive services.</li>
+  <li>DATABASES: Use tools to manage your SQL, Cosmos DB, MySQL, & other data services.</li>
+  <li>WEB: Help you build, deploy, manage & scale your web applications. Create web apps, publish APIs to your services, or use `Azure Maps` to provide geospatial context to your data.</li>
+  <li>IoT: Connect, monitor & manage all your IoT assets. Analyze the data as it arrives from the sensors & then take meaningful action with it.</li>
+  <li>Big Data: When you have large volumes of data, these open source cluster services will help you run analytics at a massive scale & make decisions based off of complex queries.</li>
+  <li>AI: Use your existing data to forecast future behaviours. Use ML to build, train & deploy models to the cloud.</li>
+  <li>DevOps: DevOps brings together people, processes, and technology by automating software delivery to provide continuous value to your users. Create, build & release pipelines that provide continuous integration, delivery, & deployment for your applications.</li>
+</ul>
+</details>
+
+### Compute
+Compute services are often one of the primary reasons why companies move to the Azure platform. Azure provides a range of options for hosting applications and services. Here are some examples of compute services in Azure.
+
+|Service name | Service function|
+|:--:|:--:|
+|Azure Virtual Machines | Windows or Linux virtual machines (VMs) hosted in Azure.|
+|Azure Virtual Machine Scale Sets | Scaling for Windows or Linux VMs hosted in Azure.|
+|Azure Kubernetes Service | Cluster management for VMs that run containerized services.|
+|Azure Service Fabric | Distributed systems platform that runs in Azure or on-premises.|
+|Azure Batch | Managed service for parallel and high-performance computing applications.|
+|Azure Container Instances | Containerized apps run on Azure without provisioning servers or VMs.|
+|Azure Functions | An event-driven, serverless compute service.|
+
