@@ -1,6 +1,6 @@
 # Introduction to Azure Fundamentals
 
-## What is Cloud Computing?
+## 1. What is Cloud Computing?
 
 Cloud Computing is the delivery of computing services over the internet, which is otherwise known as the cloud. These services include servers, storage, databases, networking, software, analytics, and intelligence. Cloud computing offers faster innovation, flexible resources, and economies of scale.
 
@@ -18,7 +18,7 @@ The cloud helps you move faster and innovate in ways that were once nearly impos
 - Analytics services that deliver telemetry data from your software and devices.
 <hr>
 
-## What is Azure?
+## 2. What is Azure?
 
 Azure is a continually expanding set of cloud services that help your organization meet your current and future business challenges. Azure gives you the freedom to build, manage, and deploy applications on a massive global network using your favorite tools and frameworks.
 
@@ -61,26 +61,26 @@ The Azure portal is a web-based, unified console that provides an alternative to
 
 ### What is Azure Marketplace?
 ![Azure Marketplace](https://azuremarketplace.microsoft.com/en-US/) helps connect users with Microsoft partners, independent software vendors, and startups that are offering their solutions and services, which are optimized to run on Azure.
+<hr>
 
-
-## Tour of Azure Services
+## 3. Tour of Azure Services
 
 <details><summary>List of top 10 services:</summary>
 <ul>
-  <li>**COMPUTE: These cloud services let you `scale` your computing capability on demand while only paying for what you use. Add VMs as needed or scale your company's app services for web and mobile apps. </li>
-  <li>NETWORKING: These featurs help you connect your cloud & on-premise infrastructure in order to bring the best possible experience to your customers. `VPNs` & `Load-balancing` are two examples of this feature. </li>
-  <li>STORAGE: Disk, file, blob or archival storage, these services let you scale your data & app storage needs in a secure fashion.</li>
-  <li>MOBILE: Build & deploy cross-platform & native apps for any mobile device, use `Xamarin` to build cloud-powered apps, & take advantage of cognitive services.</li>
-  <li>DATABASES: Use tools to manage your SQL, Cosmos DB, MySQL, & other data services.</li>
-  <li>WEB: Help you build, deploy, manage & scale your web applications. Create web apps, publish APIs to your services, or use `Azure Maps` to provide geospatial context to your data.</li>
-  <li>IoT: Connect, monitor & manage all your IoT assets. Analyze the data as it arrives from the sensors & then take meaningful action with it.</li>
-  <li>Big Data: When you have large volumes of data, these open source cluster services will help you run analytics at a massive scale & make decisions based off of complex queries.</li>
-  <li>AI: Use your existing data to forecast future behaviours. Use ML to build, train & deploy models to the cloud.</li>
-  <li>DevOps: DevOps brings together people, processes, and technology by automating software delivery to provide continuous value to your users. Create, build & release pipelines that provide continuous integration, delivery, & deployment for your applications.</li>
+  <li><b>COMPUTE:</b> These cloud services let you `scale` your computing capability on demand while only paying for what you use. Add VMs as needed or scale your company's app services for web and mobile apps. </li>
+  <li><b>NETWORKING:</b> These featurs help you connect your cloud & on-premise infrastructure in order to bring the best possible experience to your customers. `VPNs` & `Load-balancing` are two examples of this feature. </li>
+  <li><b>STORAGE:</b> Disk, file, blob or archival storage, these services let you scale your data & app storage needs in a secure fashion.</li>
+  <li><b>MOBILE:</b> Build & deploy cross-platform & native apps for any mobile device, use `Xamarin` to build cloud-powered apps, & take advantage of cognitive services.</li>
+  <li><b>DATABASES:</b> Use tools to manage your SQL, Cosmos DB, MySQL, & other data services.</li>
+  <li><b>WEB:</b> Help you build, deploy, manage & scale your web applications. Create web apps, publish APIs to your services, or use `Azure Maps` to provide geospatial context to your data.</li>
+  <li><b>IoT:</b> Connect, monitor & manage all your IoT assets. Analyze the data as it arrives from the sensors & then take meaningful action with it.</li>
+  <li><b>Big Data:</b> When you have large volumes of data, these open source cluster services will help you run analytics at a massive scale & make decisions based off of complex queries.</li>
+  <li><b>AI:</b> Use your existing data to forecast future behaviours. Use ML to build, train & deploy models to the cloud.</li>
+  <li><b>DevOps:</b> DevOps brings together people, processes, and technology by automating software delivery to provide continuous value to your users. Create, build & release pipelines that provide continuous integration, delivery, & deployment for your applications.</li>
 </ul>
-</details>
 
-### Compute
+
+<h3> Compute </h3>
 Compute services are often one of the primary reasons why companies move to the Azure platform. Azure provides a range of options for hosting applications and services. Here are some examples of compute services in Azure.
 
 |Service name | Service function|
