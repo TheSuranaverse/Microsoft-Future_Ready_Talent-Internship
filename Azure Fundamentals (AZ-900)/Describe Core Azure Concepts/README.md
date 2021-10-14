@@ -48,6 +48,7 @@ It is a private & public cloud platform that help developers & IT administartors
 - **FABRIC CONTROLLER:** Each fabric controller is connected to another piece of software known as the **Orchestrator**.
 - **ORCHESTRATOR:** It is responsible for managing everything that happens in azure, including responding to user requests. Users make requests using the Orchestartor's web API. 
 - **WEB API:** It can be called by many tools, using the user interface of the Azure portal. So when a user makes a request to create a VM, the Orchestrator packages everything that's needed , picks the best server rack, and then sneds the package and request to the Fabric Controller. Once the Fabric Controller has created the VM, the user can connect to it.  
+
 It gives you the freedom to build, manage, and deploy applications on a massive global netowrk using your favourite tools and frameworks.
 
 
