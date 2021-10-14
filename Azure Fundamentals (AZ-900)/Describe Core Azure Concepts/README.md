@@ -60,7 +60,7 @@ The Azure portal is a web-based, unified console that provides an alternative to
 </details>
 
 ### What is Azure Marketplace?
-![Azure Marketplace](https://azuremarketplace.microsoft.com/en-US/) helps connect users with Microsoft partners, independent software vendors, and startups that are offering their solutions and services, which are optimized to run on Azure.
+[Azure Marketplace](https://azuremarketplace.microsoft.com/en-US/) helps connect users with Microsoft partners, independent software vendors, and startups that are offering their solutions and services, which are optimized to run on Azure.
 
 
 ## Tour of Azure Services
