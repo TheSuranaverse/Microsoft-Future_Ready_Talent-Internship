@@ -4,7 +4,7 @@ Write your doubt/query along with the solution. Thanks for contributing!😄
 
 ➤ If you find this **REPOSITORY** helpful, then do give it a `🌟` by pressing the topmost-right button 🤗
 
-➤ To save a copy of this **REPOSITORY** to your own GitHub, then click on <a href="https://github.com/Neklaustares-tPtwP/Microsoft-Future_Ready_Talent-Internship/edit/master/README.md"><kbd><b>Fork</b></kbd></a> on the top right of your screen 🤗
+➤ To save a copy of this **REPOSITORY** to your own GitHub, click on <a href="https://github.com/Neklaustares-tPtwP/Microsoft-Future_Ready_Talent-Internship/edit/master/README.md"><kbd><b>Fork</b></kbd></a> on the top right of your screen 🤗
 
 <hr>
 
@@ -148,4 +148,4 @@ For more information, watch the video below 👍
 # THANK YOU! ❤️
 ➤ If you find this **REPOSITORY** helpful, then do give it a `🌟` by pressing the topmost-right button 🤗
 
-➤ To save a copy of this **REPOSITORY** to your own GitHub, then click on <a href="https://github.com/Neklaustares-tPtwP/Microsoft-Future_Ready_Talent-Internship/edit/master/README.md"><kbd><b>Fork</b></kbd></a> on the top right of your screen 🤗
+➤ To save a copy of this **REPOSITORY** to your own GitHub, click on <a href="https://github.com/Neklaustares-tPtwP/Microsoft-Future_Ready_Talent-Internship/edit/master/README.md"><kbd><b>Fork</b></kbd></a> on the top right of your screen 🤗
