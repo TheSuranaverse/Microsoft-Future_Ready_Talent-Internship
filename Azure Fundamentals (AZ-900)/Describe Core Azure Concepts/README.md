@@ -2,7 +2,7 @@
 
 ➤ If you find this **REPOSITORY** helpful, then do give it a `🌟` by pressing the topmost-right button 🤗
 
-➤ To save a copy of this **REPOSITORY** to your own GitHub, then click on <a href="https://github.com/Neklaustares-tPtwP/Microsoft-Future_Ready_Talent-Internship/edit/master/README.md"><kbd><b>Fork</b></kbd></a> on the top right of your screen 🤗
+➤ To save a copy of this **REPOSITORY** to your own GitHub, click on <a href="https://github.com/Neklaustares-tPtwP/Microsoft-Future_Ready_Talent-Internship/edit/master/README.md"><kbd><b>Fork</b></kbd></a> on the top right of your screen 🤗
 
 ## 1. What is Cloud Computing?
 
@@ -144,4 +144,4 @@ Many of the Learn exercises use a technology called the `sandbox`, which creates
 
 ➤ If you find this **REPOSITORY** helpful, then do give it a `🌟` by pressing the topmost-right button 🤗
 
-➤ To save a copy of this **REPOSITORY** to your own GitHub, then click on <a href="https://github.com/Neklaustares-tPtwP/Microsoft-Future_Ready_Talent-Internship/edit/master/README.md"><kbd><b>Fork</b></kbd></a> on the top right of your screen 🤗
+➤ To save a copy of this **REPOSITORY** to your own GitHub, click on <a href="https://github.com/Neklaustares-tPtwP/Microsoft-Future_Ready_Talent-Internship/edit/master/README.md"><kbd><b>Fork</b></kbd></a> on the top right of your screen 🤗
