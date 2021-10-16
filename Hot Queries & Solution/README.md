@@ -14,6 +14,7 @@ Write your doubt/query along with the solution. Thanks for contributing!😄
 - If possible make sure all profile email should be same. Or you change email from setting of each website.
 
 ## 2. Industry session videos not marked as completed issue?
+- Use `Microsoft Edge` for the entire FRT Program, don't use any other browser to complete the program.
 - Make sure you watch the complete video in one go, without buffering and internet issues. If possible do not watch in fullscreen, watch as it is given. Don't do anything at the end, till your website give prompt to click for `OK` button. Ty atleast 2-times.
 
 ## 3. How to access "STUDENT DEVELOPER PACK"?
@@ -130,9 +131,10 @@ OR
 
 Write any tips for the learning modules or internship below. Thanks for contributing!😄
 
-1. You can use only `Sandbox 4 times` in a single day, so use them carefully when you perform exercises.
-2. Go to [neverinstall](https://neverinstall.com/) on your pc & create an account with Google. Launch chrome there & open **FRT** and watch all the videos. It will provide you very fast speed internet, fast enough to watch all 5 videos at once.
-3. 
+1. Do the program in `Microsoft Edge` browser in `incognito` mode.
+2. You can use only `Sandbox 4 times` in a single day, so use them carefully when you perform exercises.
+3. Go to [neverinstall](https://neverinstall.com/) on your pc & create an account with Google. Launch chrome there & open **FRT** and watch all the videos. It will provide you very fast speed internet, fast enough to watch all 5 videos at once.
+4. 
 
 
 ### ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) Want to earn real passive income - effortlessly?🤩  
